@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 🔋 &nbsp;I'm a passionate self-starter with a strong enthusiasm for learning new technologies.\
-🎓 &nbsp;I'm currently pursuing a degree in Data Science and Economics at Arizona State University.\
+🎓 &nbsp;I'm currently pursuing a degree in Data Science with a minor in Economics at Arizona State University.\
 🌱 &nbsp;I’m currently focused on expanding my knowledge in Artificial Intelligence, Systems Design, Deep Learning, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue new certifications, follow sports, and enjoy writing about a variety of topics, which I plan to share on [Medium](https://medium.com/@pete.vanbenthuysen).
 
