@@ -59,7 +59,7 @@
     
 - **Libraries**:
 
-  ![PyTorch](https://img.shields.io/badge/pytorch-blue?style=for-the-badge&logo=pytorch&logoSize=%255000&labelColor=D4AF37&color=D4AF37)
+  ![PyTorch](https://img.shields.io/badge/pytorch-red?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C&color=EE4C2C)
   ![Playwright](https://img.shields.io/badge/playwright-green?style=for-the-badge&labelColor=50C878&color=50C878)
   ![pandas](https://img.shields.io/badge/pandas-blue?style=for-the-badge&logo=pandas&logoSize=%255000&labelColor=4E5180&color=4E5180)
   ![NumPy](https://img.shields.io/badge/numpy-green?style=for-the-badge&logo=numpy&labelColor=00FFFF&color=00FFFF)
