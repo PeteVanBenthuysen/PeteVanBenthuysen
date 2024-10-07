@@ -23,7 +23,8 @@
 
 <!--START_SECTION:activity--> 
 
-[![Top Langs](https://github-readme-stats-jade-tau.vercel.app/api/top-langs/?username=PeteVanBenthuysen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jade-tau.vercel.app/api/top-langs/?username=PeteVanBenthuysen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 -----
 
