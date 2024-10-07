@@ -4,20 +4,20 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-🔋 &nbsp;I'm a passionate go-getter who enjoys learning new technologies.\
-🎓 &nbsp;I'm currently studying Data Science and Economics at Arizona State University.\
+🔋 &nbsp;I'm a passionate self-starter with a strong enthusiasm for learning new technologies.\
+🎓 &nbsp;I'm currently pursuing a degree in Data Science and Economics at Arizona State University.\
 🌱 &nbsp;I’m currently focused on expanding my knowledge in Artificial Intelligence, Systems Design, Deep Learning, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue new certifications, follow sports, and enjoy writing about a variety of topics, which I plan to share on [Medium](https://medium.com/@pete.vanbenthuysen).
 
 ### 📂 &nbsp;Current Projects
-💡&nbsp;I’m developing a model that can predict the outcome of NBA games.\
+💡&nbsp;I'm developing a predictive model to forecast the outcomes of NBA games.\
 💡&nbsp;I'm developing a Discord bot that summarizes articles, videos, and audio, with optional translation.\
-💡&nbsp;I'm developing an automated scraper for CS2 statistics.
+💡&nbsp;I'm developing an automated scraper to gather CS2 statistics.
 
 ### 💭 &nbsp;Future Project Ideas
-💻 &nbsp; Personal portfolio website.\
-📈 &nbsp; Option pricing with machine learning.\
-🃏 &nbsp; Poker AI machine.
+💻 &nbsp; Personal portfolio site.\
+📈 &nbsp; Machine learning-powered option pricing bot.\
+🃏 &nbsp; Machine learning-powered Poker AI bot.
 
 <h3>My GitHub Stats</h3>
 
