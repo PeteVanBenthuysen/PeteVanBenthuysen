@@ -20,7 +20,10 @@
 🃏 &nbsp; Poker AI machine.
 
 <h3>My GitHub Stats</h3>
-[Pete's GitHub stats](https://github-readme-stats-ebon-theta-91.vercel.app/api?username=petevanbenthuysen)
+
+
+[![Top Langs](https://github-readme-stats-peter-vanbenthuysens-projects.vercel.app/api/top-langs/?username=PeteVanBenthuysen)](https://github.com/anuraghazra/github-readme-stats)
+
 
 -----
 
