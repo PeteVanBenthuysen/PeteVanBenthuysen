@@ -4,7 +4,7 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-🔋 &nbsp; I'm a passionate go-getter who enjoys learning new technologies.\
+🔋 &nbsp;I'm a passionate go-getter who enjoys learning new technologies.\
 🎓 &nbsp;I'm currently studying Data Science and Economics at Arizona State University.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, Deep Learning, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue certifications, watch sports, and enjoy writing about various topics on [Medium](https://medium.com/@pete.vanbenthuysen).
