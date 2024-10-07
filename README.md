@@ -7,7 +7,7 @@
 🔋 &nbsp;I'm a passionate go-getter who enjoys learning new technologies.\
 🎓 &nbsp;I'm currently studying Data Science and Economics at Arizona State University.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, Deep Learning, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I actively pursue new certifications, follow sports, and enjoy writing about a variety of topics, which I plan to start sharing on [Medium](https://medium.com/@pete.vanbenthuysen).
+✍️ &nbsp;In my free time, I pursue new certifications, follow sports, and enjoy writing about a variety of topics, which I plan to start sharing on [Medium](https://medium.com/@pete.vanbenthuysen).
 
 ### 📂 &nbsp;Current Projects
 💡&nbsp;I’m developing a model that can predict the outcome of NBA games.\
