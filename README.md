@@ -82,6 +82,7 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-orange?style=for-the-badge&labelColor=F37626&color=F37626)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Excel](https://img.shields.io/badge/microsoft_excel-green?style=for-the-badge&logo=excel&labelColor=217346&color=217346) 
   ![Word](https://img.shields.io/badge/microsoft_word-blue?style=for-the-badge&logo=excel&labelColor=2B579A&color=2B579A)
