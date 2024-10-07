@@ -20,7 +20,7 @@
 🃏 &nbsp; Poker AI machine.
 
 <h3>My GitHub Stats</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petevanbenthuysen)](https://github.com/petevanbenthuysen/github-readme-stats)
+[Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=petevanbenthuysen)](https://github.com/petevanbenthuysen/github-readme-stats)
 
 -----
 
