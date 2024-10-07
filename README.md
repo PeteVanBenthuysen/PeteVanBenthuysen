@@ -21,7 +21,7 @@
 
 <h3>My GitHub Stats</h3>
 
-<!--START_SECTION:activity-->
+<!--START_SECTION:activity--> 
 
 [![Top Langs](https://github-readme-stats-peter-vanbenthuysens-projects.vercel.app/api/top-langs/?username=PeteVanBenthuysen)](https://github.com/anuraghazra/github-readme-stats)
 
