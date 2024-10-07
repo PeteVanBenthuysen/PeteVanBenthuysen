@@ -23,7 +23,8 @@
 
 <!--START_SECTION:activity--> 
 
-[![Top Langs](https://github-readme-stats-peter-vanbenthuysens-projects.vercel.app/api/top-langs/?username=PeteVanBenthuysen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-peter-vanbenthuysens-projects.vercel.app/api/top-langs/?username=PeteVanBenthuysen)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 -----
