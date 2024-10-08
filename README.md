@@ -3,7 +3,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cloud+Computing+Learner;++;Competitive+Programmer;Statistics+Buff;Active+Learner/Researcher;Automation+Advocate;Problem+Solver"></a>
 
 ### 👨🏻‍💻 &nbsp;About Me
-🔋 &nbsp;I'm a passionate self-starter with a strong enthusiasm for learning new technologies.\
+🔋 &nbsp;I'm a passionate self-starter with a strong enthusiasm for learning new technologies. [Learn more about me here.](https://github.com/PeteVanBenthuysen/PeteVanBenthuysen/blob/main/Data_Science_Resume.pdf)
+\
 🎓 &nbsp;I'm currently pursuing a degree in Data Science with a minor in Economics at Arizona State University.\
 🌱 &nbsp;I’m currently focused on growing my knowledge in Artificial Intelligence, Systems Design, Deep Learning, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I seek new certifications, follow sports, and enjoy writing about a variety of topics, which I plan to share on [Medium](https://medium.com/@pete.vanbenthuysen).
