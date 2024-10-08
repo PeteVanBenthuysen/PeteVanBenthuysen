@@ -39,36 +39,40 @@
 
 - **Languages**:
 
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![Java](https://img.shields.io/badge/java-teal?style=for-the-badge&logo=matplotlib&labelColor=00C5B8&color=00C5B8)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r&logoSize=%255000&labelColor=75AADB&color=75AADB)
   ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoSize=%255000&labelColor=beige&color=beige)
+
   
 
 <br>   
     
 - **Frameworks**:
 
+  ![Angular](https://img.shields.io/badge/angular-pink?style=for-the-badge&labelColor=DD0031&color=DD0031)
   ![nextjs](https://img.shields.io/badge/next.js-blue?style=for-the-badge&logo=next.js&logoSize=%255000&labelColor=black&color=black)
   ![Django](https://img.shields.io/badge/Django-blue?style=for-the-badge&logo=django&logoSize=%255000&labelColor=092E20&color=092E20)
   ![Flask](https://img.shields.io/badge/Flask-blue?style=for-the-badge&logo=flask&logoSize=%255000&labelColor=738276&color=738276)
   ![Nodejs](https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=nodedotjs&logoSize=%255000&labelColor=white&color=white)
 
+
 <br>   
     
 - **Libraries**:
 
-  ![PyTorch](https://img.shields.io/badge/pytorch-red?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C&color=EE4C2C)
-  ![Playwright](https://img.shields.io/badge/playwright-green?style=for-the-badge&labelColor=50C878&color=50C878)
-  ![pandas](https://img.shields.io/badge/pandas-blue?style=for-the-badge&logo=pandas&logoSize=%255000&labelColor=4E5180&color=4E5180)
+  ![BeautifulSoup](https://img.shields.io/badge/beautifulsoup-red?style=for-the-badge&logo=matplotlib&labelColor=white&color=white)
+  ![Matplotlib](https://img.shields.io/badge/matplotlib-red?style=for-the-badge&logo=matplotlib&labelColor=8B2F2F&color=8B2F2F)
   ![NumPy](https://img.shields.io/badge/numpy-green?style=for-the-badge&logo=numpy&labelColor=00FFFF&color=00FFFF)
+  ![pandas](https://img.shields.io/badge/pandas-blue?style=for-the-badge&logo=pandas&logoSize=%255000&labelColor=4E5180&color=4E5180)
+  ![Playwright](https://img.shields.io/badge/playwright-green?style=for-the-badge&labelColor=50C878&color=50C878)
+  ![PyTorch](https://img.shields.io/badge/pytorch-red?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C&color=EE4C2C)
+  ![XGBoost](https://img.shields.io/badge/xgboost-blue?style=for-the-badge&labelColor=0072C6&color=0072C6)
   ![Tidyverse](https://img.shields.io/badge/tidyverse-purple?style=for-the-badge&labelColor=501b8f&color=501b8f)
   ![tuneRanger](https://img.shields.io/badge/tuneranger-blue?style=for-the-badge&labelColor=87CEEB&color=87CEEB)
-  ![XGBoost](https://img.shields.io/badge/xgboost-blue?style=for-the-badge&labelColor=0072C6&color=0072C6)
-  ![Matplotlib](https://img.shields.io/badge/matplotlib-red?style=for-the-badge&logo=matplotlib&labelColor=8B2F2F&color=8B2F2F)
-  ![BeautifulSoup](https://img.shields.io/badge/beautifulsoup-red?style=for-the-badge&logo=matplotlib&labelColor=white&color=white)
   ![OpenAI](https://img.shields.io/badge/openai-teal?style=for-the-badge&logo=openai&labelColor=808080&color=808080)
+
 
 
 
@@ -84,13 +88,14 @@
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Discord](https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=5865F2)
-  ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-orange?style=for-the-badge&labelColor=F37626&color=F37626)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Excel](https://img.shields.io/badge/microsoft_excel-green?style=for-the-badge&logo=excel&labelColor=217346&color=217346) 
-  ![Word](https://img.shields.io/badge/microsoft_word-blue?style=for-the-badge&logo=excel&labelColor=2B579A&color=2B579A)
+  ![Excel](https://img.shields.io/badge/microsoft_excel-green?style=for-the-badge&logo=excel&labelColor=217346&color=217346)
   ![PowerPoint](https://img.shields.io/badge/microsoft_powerpoint-orange?style=for-the-badge&logo=excel&labelColor=D24726&color=D24726)
+  ![Word](https://img.shields.io/badge/microsoft_word-blue?style=for-the-badge&logo=excel&labelColor=2B579A&color=2B579A)
+  ![Discord](https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=5865F2)
+  ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+
 <br>
 
 - **Extras**:
