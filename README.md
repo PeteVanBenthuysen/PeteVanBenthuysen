@@ -7,7 +7,7 @@
 \
 🎓 &nbsp;I'm currently pursuing a degree in Data Science with a minor in Economics at Arizona State University.\
 🌱 &nbsp;I’m currently focused on growing my knowledge in Artificial Intelligence, Systems Design, Deep Learning, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I seek new certifications, follow sports, and enjoy writing about a variety of topics, which I plan to share on [Medium](https://medium.com/@pete.vanbenthuysen).
+✍️ &nbsp;In my free time, I seek new certifications, follow sports, and enjoy writing about a variety of topics, which I plan to share on [Substack](https://substack.com/@petervanbenthuysen/notes).
 
 ### 📂 &nbsp;Ongoing Projects
 💡&nbsp;I'm developing a predictive model to forecast the outcomes of NBA games.\
