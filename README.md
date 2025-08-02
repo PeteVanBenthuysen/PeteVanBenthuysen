@@ -7,19 +7,18 @@
 \
 🎓 &nbsp;I'm currently pursuing a degree in Data Science with a minor in Economics at Arizona State University.\
 🌱 &nbsp;I’m currently focused on growing my knowledge in Artificial Intelligence, Systems Design, Deep Learning, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I seek new certifications, follow sports, and enjoy writing about a variety of topics, which I plan to share on [Substack](https://substack.com/@petervanbenthuysen/notes).
+✍️ &nbsp;In my free time, I seek new certifications, follow sports, and enjoy trying new restaurants.\
 
 ### 📂 &nbsp;Ongoing Projects
-💡&nbsp;I'm developing a predictive model to forecast the outcomes of NBA games.\
-💡&nbsp;I'm developing a Discord bot that summarizes articles, videos, and audio, with optional translation.\
+💡&nbsp;I'm developing a complex CS2 database including the most granular data possible scraped from game replays.\
+💡&nbsp;I'm doing a Comparative Analysis of Monte Carlo Simulation and Black-Scholes for European Option Pricing.\
 💡&nbsp;I'm developing an automated scraper to gather CS2 statistics.
 
 ### 💭 &nbsp;Upcoming Project Ideas
 💻 &nbsp; Personal portfolio site.\
-📈 &nbsp; Machine learning-powered option pricing bot.\
-🃏 &nbsp; Machine learning-powered Poker AI bot.
+📈 &nbsp; Machine learning-powered option pricing b.\
+🃏 &nbsp; Real-Time Voice Emotion Detector
 
-<h3>My GitHub Stats</h3>
 
 <!--START_SECTION:activity--> 
 
