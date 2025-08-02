@@ -7,7 +7,7 @@
 \
 🎓 &nbsp;I'm currently pursuing a degree in Data Science with a minor in Economics at Arizona State University.\
 🌱 &nbsp;I’m currently focused on growing my knowledge in Artificial Intelligence, Systems Design, Deep Learning, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I seek new certifications, follow sports, and enjoy trying new restaurants.\
+✍️ &nbsp;In my free time, I seek new certifications, follow sports, and enjoy trying new restaurants.
 
 ### 📂 &nbsp;Ongoing Projects
 💡&nbsp;I'm developing a complex CS2 database including the most granular data possible scraped from game replays.\
