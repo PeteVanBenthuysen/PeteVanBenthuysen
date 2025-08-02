@@ -16,8 +16,8 @@
 
 ### 💭 &nbsp;Upcoming Project Ideas
 💻 &nbsp; Personal portfolio site.\
-📈 &nbsp; Machine learning-powered option pricing b.\
-🃏 &nbsp; Real-Time Voice Emotion Detector
+📈 &nbsp; Machine learning-powered option pricing.\
+🃏 &nbsp; Real-Time Voice Emotion Detector.\
 
 
 <!--START_SECTION:activity--> 
