@@ -10,6 +10,7 @@
 ✍️ &nbsp;In my free time, I seek new certifications, follow sports, and enjoy trying new restaurants.
 
 ### 📂 &nbsp;Ongoing Projects
+💡&nbsp;I'm competing in the 2026 NFL Big Data Bowl Competition.\
 💡&nbsp;I'm developing a complex CS2 database including the most granular data possible scraped from game replays.\
 💡&nbsp;I'm doing a Comparative Analysis of Monte Carlo Simulation and Black-Scholes for European Option Pricing.\
 💡&nbsp;I'm developing an automated scraper to gather CS2 statistics.
