@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 🔋 &nbsp;I'm a passionate self-starter with a strong enthusiasm for learning new technologies. [Please download my resume.](https://github.com/PeteVanBenthuysen/PeteVanBenthuysen/blob/main/Data_Science_Resume.pdf)
 \
-🎓 &nbsp;I'm currently pursuing a degree in Data Science with a minor in Economics at Arizona State University.\
+🎓 &nbsp;I've recieved my degree in Data Science with a minor in Economics at Arizona State University.\
 🌱 &nbsp;I’m currently focused on growing my knowledge in Artificial Intelligence, Systems Design, Deep Learning, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I seek new certifications, follow sports, and enjoy trying new restaurants.
 
